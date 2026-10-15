@@ -26,7 +26,7 @@ Para llevar a cabo la medición, el proyecto expone estos algoritmos a través d
 
 ---
 
-## ⚙️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 * **Java** (JDK 17+)
 * **Spring Boot** (Construcción de la API REST)
