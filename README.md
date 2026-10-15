@@ -2,21 +2,21 @@
 
 <p align="center">
   <strong>Escuela Politécnica Nacional (EPN)</strong><br>
-  Facultad de Ingeniería de Sistemas y Computación<br>
+  Facultad de Ingeniería de Sistemas<br>
   <em>Estructuras de Datos y Algoritmos II (EDA II)</em>
 </p>
 
 ---
 
-## 👥 Integrantes
+## Integrantes
 * **Michael Sornoza**
 * [Nombre del Integrante 2]
 * [Nombre del Integrante 3]
-* [Nombre del Integrante 3]
-
+* [Nombre del Integrante 4]
+*  [Nombre del Integrante 5]
 ---
 
-## 📌 Descripción del Proyecto
+## Descripción del Proyecto
 
 Este repositorio contiene la implementación y el análisis comparativo del rendimiento de diversos **algoritmos de ordenamiento**. El proyecto está estructurado para evaluar el impacto real de la complejidad temporal y espacial mediante dos enfoques:
 1. **Versión Ineficiente:** Implementaciones básicas o ingenuas (enfoque de fuerza bruta o alta redundancia computacional).
@@ -34,19 +34,4 @@ Para llevar a cabo la medición, el proyecto expone estos algoritmos a través d
 * **Maven / Gradle** (Gestión de dependencias)
 * **Git & GitHub** (Control de versiones)
 
----
-
-## 🗂️ Estructura del Repositorio
-
-```text
-📦 
- ┣ 📂 src/main/java/com/epn/edaii/
- ┃ ┣ 📂 controllers/       # Endpoints REST para invocar los algoritmos
- ┃ ┣ 📂 algorithms/
- ┃ ┃ ┣ 📂 inefficient/     # Algoritmos de ordenamiento en versión ineficiente
- ┃ ┃ ┗ 📂 optimized/       # Algoritmos de ordenamiento en versión optimizada
- ┃ ┗ 📂 services/          # Lógica de negocio y medición de tiempos de ejecución
- ┣ 📂 jmeter/              # Archivos de configuración y planes de prueba (.jmx)
- ┣ 📄 pom.xml              # Dependencias del proyecto (Maven)
- ┗ 📄 README.md            # Documentación del proyecto
 
