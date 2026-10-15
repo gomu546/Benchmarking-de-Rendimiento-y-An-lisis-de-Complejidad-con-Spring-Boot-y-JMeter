@@ -10,10 +10,10 @@
 
 ## Integrantes
 * **Michael Sornoza**
-* [Nombre del Integrante 2]
-* [Nombre del Integrante 3]
-* [Nombre del Integrante 4]
-*  [Nombre del Integrante 5]
+* **Henry Luisa**
+* **Evan Matango**
+* **Alex Analuisa**
+* **Martín Pérez**
 ---
 
 ## Descripción del Proyecto
